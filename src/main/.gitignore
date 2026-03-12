@@ -1,0 +1,16 @@
+*.class
+target/
+*log
+.vscode/
+.idea/
+.DS_Store
+*.tmp
+.swp
+*.bak
+*.log
+*.out
+*.err
+*.pid
+
+
+        
